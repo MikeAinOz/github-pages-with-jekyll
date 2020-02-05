@@ -1,3 +1,2 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+# The New Title
+Business Intelligence has been with us for a long time, in a variety of guises with different names and methods of implementations. Business Intelligence (BI) existed before computers and in early days was associated with statistics and statistical graphics. Florence Nightingale was a notable pioneer of business and is sometimes given the somewhat dubious accolade of popularising the pie chart..
